@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Cannotchangeplanforanexpiredsubscription" xml:space="preserve">
+    <value>لا يمكنك تغيير الخطة لأن الاشتراك منتهي الصلاحية.</value>
+  </data>
+  <data name="CannotDeleterolename" xml:space="preserve">
+    <value>Cannot Delete role name Because Role Name Have Users</value>
+  </data>
+  <data name="Cannotupdaterolename" xml:space="preserve">
+    <value>Cannot update role name Because Role Name Have Users</value>
+  </data>
+  <data name="CategoriesRetrieved" xml:space="preserve">
+    <value>تم استرجاع الاقسام بنجاح</value>
+  </data>
+  <data name="CategoryAdded" xml:space="preserve">
+    <value>تم اضافه القسم بنجاح</value>
+  </data>
+  <data name="CategoryDeleted" xml:space="preserve">
+    <value>تم حذف القسم بنجاح</value>
+  </data>
+  <data name="CategoryNameMustBeUnique" xml:space="preserve">
+    <value>يجب أن يكون اسم القسم غير مكررا</value>
+  </data>
+  <data name="CategoryNotFound" xml:space="preserve">
+    <value>هذا القسم غير موجود</value>
+  </data>
+  <data name="CategoryRetrieved" xml:space="preserve">
+    <value>تم استرجاع القسم بنجاح</value>
+  </data>
+  <data name="CategoryUpdated" xml:space="preserve">
+    <value>تم تعديل القسم بنجاح</value>
+  </data>
+  <data name="CodeIsWrong" xml:space="preserve">
+    <value>رقم الكود خطأ</value>
+  </data>
+  <data name="CodeSent" xml:space="preserve">
+    <value>تم ارسال الكود</value>
+  </data>
+  <data name="ConfirmEmail" xml:space="preserve">
+    <value>تم تأكيد البريد الإلكتروني بنجاح</value>
+  </data>
+  <data name="Confirmpassworddoesnotmatch" xml:space="preserve">
+    <value>كلمة المرور التأكيدية غير مطابقة</value>
+  </data>
+  <data name="CourseDonotHaveAnyLessons" xml:space="preserve">
+    <value>هذا الكورس لا يحتوي علي اي درس</value>
+  </data>
+  <data name="Coursenotapproved" xml:space="preserve">
+    <value>هذا الكورس لم يتم اعتماده بعد.</value>
+  </data>
+  <data name="CourseNotFound" xml:space="preserve">
+    <value>لا يوجد كورس</value>
+  </data>
+  <data name="Created" xml:space="preserve">
+    <value>تمت إضافة العنصر بنجاح</value>
+  </data>
+  <data name="Deleted" xml:space="preserve">
+    <value>تم الحذف بنجاح</value>
+  </data>
+  <data name="Durationmustnotexceed10hours" xml:space="preserve">
+    <value>مده الدرس يجب الا تتجاوز ال 10 ساعات</value>
+  </data>
+  <data name="EmailMustBeUniqueItIsFoundAlready" xml:space="preserve">
+    <value>البريد الإلكتروني موجود بالفعل.</value>
+  </data>
+  <data name="EmailNotFound" xml:space="preserve">
+    <value>لا يوجد مستخدم بهذا البريد الالكتروني</value>
+  </data>
+  <data name="EmailSendFailed" xml:space="preserve">
+    <value>فشل في ارسال البريد الالكتروني</value>
+  </data>
+  <data name="FailedAdded" xml:space="preserve">
+    <value>تعذر إضافة العنصر.</value>
+  </data>
+  <data name="FailedDeleted" xml:space="preserve">
+    <value>تعذر حذف العنصر.</value>
+  </data>
+  <data name="FailedUpdated" xml:space="preserve">
+    <value>تعذر تحديث العنصر.</value>
+  </data>
+  <data name="GreaterThan0" xml:space="preserve">
+    <value>يجب ان يكون العنصر اكبر من 0</value>
+  </data>
+  <data name="Imagesize" xml:space="preserve">
+    <value>حجم الصوره يجب الا يتعدي ال 2ميجا بايت</value>
+  </data>
+  <data name="ImageType" xml:space="preserve">
+    <value>JPG, PNG, او WEBP نوع الصوره يجب ان يكون  بين</value>
+  </data>
+  <data name="Instructorprofileisnotapproved" xml:space="preserve">
+    <value>لم تتم الموافقة على ملف المدرب بعد.</value>
+  </data>
+  <data name="InstructorprofileRequestalreadyexists" xml:space="preserve">
+    <value>طلب إنشاء ملف المدرب موجود بالفعل.</value>
+  </data>
+  <data name="InvalidCouponCode" xml:space="preserve">
+    <value>هذا الكود غير صالح للاستخدام </value>
+  </data>
+  <data name="Invalidcourselanguage" xml:space="preserve">
+    <value>لغة الكورس المحددة غير صالحة.</value>
+  </data>
+  <data name="Invalidcourselevel" xml:space="preserve">
+    <value>يكون ان يكون مستوي الكورس مبتدا او متوسط او متقدم</value>
+  </data>
+  <data name="InvalidDiscountType" xml:space="preserve">
+    <value>نوع الخصم غير صحيح</value>
+  </data>
+  <data name="InvalidId" xml:space="preserve">
+    <value>يجب أن يكون المعرّف أكبر من صفر</value>
+  </data>
+  <data name="IsNullOrWhiteSpace" xml:space="preserve">
+    <value>لا يمكن أن يكون الحقل فارغًا أو يحتوي على مسافات فقط.</value>
+  </data>
+  <data name="LessonAdded" xml:space="preserve">
+    <value>تم اضافه الدرس بنجاح</value>
+  </data>
+  <data name="LessonDeleted" xml:space="preserve">
+    <value>تم حذف الدرس بنجاح</value>
+  </data>
+  <data name="LessonNotFound" xml:space="preserve">
+    <value>هذا  الدرس غير موجود</value>
+  </data>
+  <data name="LessonRetrieved" xml:space="preserve">
+    <value>تم استرجاع الدرس بنجاح</value>
+  </data>
+  <data name="LessonsRetrieved" xml:space="preserve">
+    <value>تم استرجاع الدروس بنجاح</value>
+  </data>
+  <data name="LessonUpdated" xml:space="preserve">
+    <value>تم تعديل الدرس بنجاح</value>
+  </data>
+  <data name="LessThanOrEqualTo24Months" xml:space="preserve">
+    <value>لا يمكن أن تتجاوز المدة 24 شهرًا.</value>
+  </data>
+  <data name="LinkedInURL" xml:space="preserve">
+    <value>رابط لينكدإن غير صالح.</value>
+  </data>
+  <data name="MaximumLengthIs100" xml:space="preserve">
+    <value>الحد الأقصى لعدد الأحرف هو 100 حرف.</value>
+  </data>
+  <data name="MaximumLengthIs2000" xml:space="preserve">
+    <value>الحد الأقصى لعدد الأحرف هو 2000 حرف.</value>
+  </data>
+  <data name="NameMustBeBetween3And100" xml:space="preserve">
+    <value>الاسم يجب ان يكون بين 3 و 100</value>
+  </data>
+  <data name="NoCoursesFound" xml:space="preserve">
+    <value>لا يوجد اي كورس مشترك</value>
+  </data>
+  <data name="NocoursesfoundforThiscategory" xml:space="preserve">
+    <value>لا يوجد كورسات في هذا القسم</value>
+  </data>
+  <data name="NocoursesfoundforThisInstructor" xml:space="preserve">
+    <value>لا يوجد كورسات في هذا المعلم</value>
+  </data>
+  <data name="NotConfirmEmail" xml:space="preserve">
+    <value>يرجى تأكيد البريد الإلكتروني قبل تسجيل الدخول</value>
+  </data>
+  <data name="NotEmpty" xml:space="preserve">
+    <value>لا يمكن أن يكون هذا الحقل فارغًا.</value>
+  </data>
+  <data name="NotFound" xml:space="preserve">
+    <value>الحقل المطلوب غير موجود</value>
+  </data>
+  <data name="Onlypendingrequestscanbecancelled" xml:space="preserve">
+    <value>يمكن إلغاء الطلبات التي حالتها قيد الانتظار فقط.</value>
+  </data>
+  <data name="ordernumberisalreadyused" xml:space="preserve">
+    <value>رقم الطلب المحدد مستخدم مسبقًا.</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>كلمة السر غير صحيحه </value>
+  </data>
+  <data name="PlanAdded" xml:space="preserve">
+    <value>تم اضافه الخطة بنجاح</value>
+  </data>
+  <data name="PlanDeleted" xml:space="preserve">
+    <value>تم حذف الخطة بنجاح</value>
+  </data>
+  <data name="PlanNotFound" xml:space="preserve">
+    <value>الخطة غير موجودة.</value>
+  </data>
+  <data name="PlansRetrieved" xml:space="preserve">
+    <value>تم استرجاع الخطة بنجاح</value>
+  </data>
+  <data name="PlanUpdated" xml:space="preserve">
+    <value>تم تعديل الخطة بنجاح</value>
+  </data>
+  <data name="PleaseLogIn" xml:space="preserve">
+    <value>يجب تسجيل الدخول.</value>
+  </data>
+  <data name="RateBetween0And5" xml:space="preserve">
+    <value>التقيم يجب ان يكون م بين 0و 5</value>
+  </data>
+  <data name="Requestnotfound" xml:space="preserve">
+    <value>الطلب غير موجود </value>
+  </data>
+  <data name="Required" xml:space="preserve">
+    <value>هذا الحقل مطلوب </value>
+  </data>
+  <data name="Retrieved" xml:space="preserve">
+    <value>تم استرجاع العنصر بنجاح.</value>
+  </data>
+  <data name="RoleNameMustBeUnique" xml:space="preserve">
+    <value>يجب أن يكون اسم الدور فريداً</value>
+  </data>
+  <data name="SendEmailFailed" xml:space="preserve">
+    <value>فشل الارسال للبريد الالكتروني</value>
+  </data>
+  <data name="SubscriptionIsAlreadyActive" xml:space="preserve">
+    <value>لا يمكنك الغاء الاشتراك لانه نشط بالفعل</value>
+  </data>
+  <data name="SubscriptionIsAlreadyFound" xml:space="preserve">
+    <value>لديك اشتراك نشط بالفعل.</value>
+  </data>
+  <data name="Subscriptionisexpired" xml:space="preserve">
+    <value>الاشتراك منتهي الصلاحية.</value>
+  </data>
+  <data name="SubscriptionNotFound" xml:space="preserve">
+    <value>الاشتراك غير موجود.</value>
+  </data>
+  <data name="UnAuthorized" xml:space="preserve">
+    <value>غير مصرح لك بالوصول إلى هذا المورد</value>
+  </data>
+  <data name="Updated" xml:space="preserve">
+    <value>تم تحديث العنصر بنجاح</value>
+  </data>
+  <data name="UserLoggedOutSuccessfully" xml:space="preserve">
+    <value>تم تسجيل الخروج بنجاح</value>
+  </data>
+  <data name="UserNotEnrolledInThisCourse" xml:space="preserve">
+    <value>لم تقم بالتسجيل في هذا الكورس بعد.</value>
+  </data>
+  <data name="UserNotFound" xml:space="preserve">
+    <value>المستخدم ليس موجود </value>
+  </data>
+  <data name="UserWithEmailIsAlreadyFound" xml:space="preserve">
+    <value>يوجد مستخدم بهذا البريد الإلكتروني بالفعل.</value>
+  </data>
+  <data name="ValidEmailAddress" xml:space="preserve">
+    <value>يرجى إدخال عنوان بريد إلكتروني صالح.</value>
+  </data>
+  <data name="YouCannotDeleteAccountYouSubscribeInCourse" xml:space="preserve">
+    <value>لا يمكنك حذف الحساب لأنك مشترك في كورس</value>
+  </data>
+  <data name="YouDonthaveanyrequest" xml:space="preserve">
+    <value>انت لا تمتلك اي طلب</value>
+  </data>
+  <data name="YouHaveAlreadyUsedThisCoupon" xml:space="preserve">
+    <value>انت بالفعل مستخدم هذا الكود </value>
+  </data>
+</root>

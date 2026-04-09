@@ -1,0 +1,68 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LMS.Data\LMS.Data.csproj" />
+    <ProjectReference Include="..\LMS.Infrastructure\LMS.Infrastructure.csproj" />
+    <ProjectReference Include="..\LMS.Service\LMS.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Feature\ApplicationUser\Command\Result\" />
+    <Folder Include="Feature\ApplicationUser\Command\Validators\AdminValidator\" />
+    <Folder Include="Feature\ApplicationUser\Query\Result\AuthResult\" />
+    <Folder Include="Feature\Emails\Command\Results\" />
+    <Folder Include="Feature\Emails\Query\Results\" />
+    <Folder Include="Feature\LessonFiles\Command\Result\" />
+    <Folder Include="Feature\QuestionOptions\Command\Result\" />
+    <Folder Include="Feature\QuestionOptions\Query\Validator\" />
+    <Folder Include="Feature\QuizQuestions\Command\Result\" />
+    <Folder Include="Feature\QuizQuestions\Query\Validator\" />
+    <Folder Include="Feature\QuizSubmissions\Command\Result\" />
+    <Folder Include="Feature\QuizSubmissions\Command\Validator\" />
+    <Folder Include="Feature\QuizSubmissions\Query\Validator\" />
+    <Folder Include="Feature\Quizzes\Command\Result\" />
+    <Folder Include="Feature\Quizzes\Query\Validator\" />
+    <Folder Include="Feature\Roles\Command\Result\" />
+    <Folder Include="Feature\Roles\Query\Validators\" />
+    <Folder Include="Feature\Categories\Command\Result\" />
+    <Folder Include="Feature\Categories\Query\Validators\" />
+    <Folder Include="Feature\Coupons\Command\Result\" />
+    <Folder Include="Feature\Coupons\Query\Validators\" />
+    <Folder Include="Feature\Courses\Command\Models\StudentCommand\" />
+    <Folder Include="Feature\Courses\Command\Result\" />
+    <Folder Include="Feature\Courses\Query\Validators\" />
+    <Folder Include="Feature\InstructorProfiles\Command\Result\" />
+    <Folder Include="Feature\InstructorProfiles\Query\Validators\" />
+    <Folder Include="Feature\Lessons\Command\Result\" />
+    <Folder Include="Feature\Lessons\Query\Validators\" />
+    <Folder Include="Feature\Plan\Command\Result\" />
+    <Folder Include="Feature\Plan\Query\Validators\" />
+    <Folder Include="Feature\Subscriptions\Command\Result\" />
+    <Folder Include="Feature\Subscriptions\Query\Validator\" />
+    <Folder Include="Feature\UserCourses\Command\Models\Admin\" />
+    <Folder Include="Feature\UserCourses\Command\Models\Instructor\" />
+    <Folder Include="Feature\UserCourses\Command\Result\" />
+    <Folder Include="Feature\UserCourses\Query\Models\NewFolder\" />
+    <Folder Include="Feature\UserCourses\Query\Validators\" />
+    <Folder Include="Mapping\PaymentMapping\PaymentCommandMapping\" />
+    <Folder Include="Mapping\RoleMapping\CommandMapping\" />
+    <Folder Include="Mapping\SubscriptionsMapping\SubscriptionsCommandMapping\AdminSubscriptionsCommandMapping\" />
+    <Folder Include="Payment\Command\Result\" />
+    <Folder Include="Payment\Command\Validation\" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="AutoMapper" Version="16.1.1" />
+    <PackageReference Include="FluentValidation" Version="12.1.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="12.1.1" />
+	  <PackageReference Include="MediatR" Version="12.4.1" />
+	  <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.9" />
+  </ItemGroup>
+
+</Project>

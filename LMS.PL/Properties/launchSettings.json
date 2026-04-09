@@ -1,0 +1,68 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:49498",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:5184",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Paymob__APIKey": "",
+        "Paymob__PublicKey": "",
+        "Paymob__SecretKey": "",
+        "Paymob__HMAC": "",
+        "Paymob__CardIntegrationId": "",
+        "Paymob__MerchantId": "",
+        "Paymob__AllowedIPs": "*",
+        "Paymob__MobileIntegrationId": "5588023",
+        "Email__Username": "ma3724649@gmail.com",
+        "Email__FromEmail": "ma3724649@gmail.com",
+        "Email__Password": "bgcifoojbnltvkgh",
+        "Email__SmtpServer": "smtp.gmail.com",
+        "Email__SmtpPort": "587",
+        "Email__FromName": "LMS App",
+        "JWT__SecretKey": "asdadaqeq!@##3244343feuefuefui989",
+        "JWT__AudienceIP": "http://localhost:4200",
+        "JWT__IssuerIP": "http://localhost:5184",
+        "connectionStrings__LMS": "Server=LAPTOP-EJKLVEC8;Database=LMS;Trusted_Connection=True;TrustServerCertificate=True",
+        "connectionStrings__Redis": "localhost:6379"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Paymob__APIKey": "ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmpiR0Z6Y3lJNklrMWxjbU5vWVc1MElpd2ljSEp2Wm1sc1pWOXdheUk2TVRFME16SXhNaXdpYm1GdFpTSTZJbWx1YVhScFlXd2lmUS53MWFBZzk5SHZMbTVWTDQ0WVdScDZiVVM1RTFPVG9QOVoyUzJmQmRWNUxFVmZCb25MMmYwMVRHQUUybEw0ZkhaRjZWWkdadlJPeDN6b2FBcWppeUcyQQ",
+        "Paymob__PublicKey": "egy_pk_test_hs0W0pBIrg2ttLsqXNsjDagtSoayy4A4",
+        "Paymob__SecretKey": "egy_sk_test_27a777c85c7b6d74c0754615289c78c4137f9f6a7136092d1384f7f34b6209fa",
+        "Paymob__HMAC": "A919BF4E743FFBAFEABEF10AC7CAF8FE",
+        "Paymob__CardIntegrationId": "5586728",
+        "Paymob__MerchantId": "1143212",
+        "Paymob__AllowedIPs": "*",
+        "Paymob__MobileIntegrationId": "5588023",
+        "Email__Username": "ma3724649@gmail.com",
+        "Email__FromEmail": "ma3724649@gmail.com",
+        "Email__Password": "bgcifoojbnltvkgh",
+        "Email__SmtpServer": "smtp.gmail.com",
+        "Email__SmtpPort": "587",
+        "Email__FromName": "LMS App",
+        "JWT__SecretKey": "asdadaqeq!@##3244343feuefuefui989",
+        "JWT__AudienceIP": "http://localhost:4200",
+        "JWT__IssuerIP": "http://localhost:5184"
+      }
+    }
+  }
+}
+}

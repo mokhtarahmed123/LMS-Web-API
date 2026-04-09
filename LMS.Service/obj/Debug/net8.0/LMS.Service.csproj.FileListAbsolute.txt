@@ -1,0 +1,17 @@
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\bin\Debug\net8.0\LMS.Service.deps.json
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\bin\Debug\net8.0\LMS.Service.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\bin\Debug\net8.0\LMS.Service.pdb
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\bin\Debug\net8.0\LMS.Data.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\bin\Debug\net8.0\LMS.Infrastructure.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\bin\Debug\net8.0\LMS.Data.pdb
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\bin\Debug\net8.0\LMS.Infrastructure.pdb
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\obj\Debug\net8.0\LMS.Service.csproj.AssemblyReference.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\obj\Debug\net8.0\LMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\obj\Debug\net8.0\LMS.Service.AssemblyInfoInputs.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\obj\Debug\net8.0\LMS.Service.AssemblyInfo.cs
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\obj\Debug\net8.0\LMS.Service.csproj.CoreCompileInputs.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\obj\Debug\net8.0\LMS.Serv.DC454ACD.Up2Date
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\obj\Debug\net8.0\LMS.Service.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\obj\Debug\net8.0\refint\LMS.Service.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\obj\Debug\net8.0\LMS.Service.pdb
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Service\obj\Debug\net8.0\ref\LMS.Service.dll

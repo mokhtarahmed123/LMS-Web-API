@@ -1,0 +1,17 @@
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\bin\Debug\net8.0\LMS.Infrastructure.deps.json
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\bin\Debug\net8.0\LMS.Infrastructure.runtimeconfig.json
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\bin\Debug\net8.0\LMS.Infrastructure.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\bin\Debug\net8.0\LMS.Infrastructure.pdb
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\bin\Debug\net8.0\LMS.Data.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\bin\Debug\net8.0\LMS.Data.pdb
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.AssemblyInfo.cs
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infr.9CDDD858.Up2Date
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\refint\LMS.Infrastructure.dll
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.pdb
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.genruntimeconfig.cache
+C:\Courses\Web Devolpment\.NET\Projects .net\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\ref\LMS.Infrastructure.dll
