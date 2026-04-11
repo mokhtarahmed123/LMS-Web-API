@@ -14,7 +14,6 @@ A full-featured Learning Management System built with **.NET 8** and **Clean Arc
 | Caching | Redis |
 | Authentication | ASP.NET Identity + JWT Bearer |
 | Payment | Paymob |
-  
 | Background Jobs | Hangfire |
 | Validation | FluentValidation |
 | Logging | Serilog |
